@@ -1,2 +1,4 @@
 # wysiwyg-v1
-JS WYSWYG Editor
+Just another simple wysiwyg-editor.
+
+Still in dev....
